@@ -1,4 +1,4 @@
-baseURL: "https://thiagob1981.github.io/"
+baseURL: "https://thiagob.dev/"
 languageCode: "en"
 title: "Thiago Baptista"
 theme: "PaperMod"
@@ -18,10 +18,10 @@ params:
   homeInfoParams:
     Title: "Thiago Baptista"
     Content: >
-      Senior Data Engineer specializing in **Lakehouse architectures** and **data platforms at scale**.
+      Senior Data & Analytics Engineer specializing in **Lakehouse architectures** and **data products at scale**.
 
 
-      Building robust data solutions with Databricks, Apache Spark, Delta Lake, and Microsoft Fabric.
+      Building end-to-end data solutions with Databricks, Apache Spark, Delta Lake, and Microsoft Fabric.
 
   socialIcons:
     - name: linkedin
