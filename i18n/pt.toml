@@ -1,0 +1,110 @@
+[read_more]
+other = "Leia mais"
+
+[by]
+other = "por"
+
+[posted_on]
+other = "Publicado em"
+
+[tags]
+other = "Tags"
+
+[contact]
+other = "Contato"
+
+[contactFormLabel]
+other = "Vamos Conectar"
+
+[contactFormLabelNameLabel]
+other = "Nome"
+
+[contactFormLabelEmailLabel]
+other = "Email"
+
+[contactFormLabelSubjectLabel]
+other = "Assunto"
+
+[contactFormLabelMessageLabel]
+other = "Mensagem"
+
+[contactFormSendBtnLabel]
+other = "Enviar"
+
+[send]
+other = "Enviar"
+
+[skills]
+other = "Competencias"
+
+[experience]
+other = "Experiencia"
+
+[about]
+other = "Sobre"
+
+[technical]
+other = "Tech Stack"
+
+[language]
+other = "Idioma"
+
+[getInTouch]
+other = "Entre em Contato"
+
+[learnMore]
+other = "Saiba mais"
+
+[sendMeAMessage]
+other = "Envie uma mensagem"
+
+[contactInformation]
+other = "Informacoes de Contato"
+
+[priorityContact]
+other = "Contato Prioritario"
+
+[aboutMe]
+other = "Sobre Mim"
+
+[connectOnLinkedIn]
+other = "Conectar no LinkedIn"
+
+[quickFacts]
+other = "Resumo"
+
+[more]
+other = "Mais"
+
+[aboutName]
+other = "Sobre"
+
+[interests]
+other = "Interesses"
+
+[languages]
+other = "Idiomas"
+
+[helloIm]
+other = "Ola, eu sou"
+
+[viewCV]
+other = "Ver CV"
+
+[downloadResume]
+other = "Baixar Curriculo"
+
+[keyAchievements]
+other = "Conquistas"
+
+[pageNotFound]
+other = "Pagina Nao Encontrada"
+
+[pageNotFoundSubtitle]
+other = "A pagina que voce procura nao existe."
+
+[goHome]
+other = "Voltar ao inicio"
+
+[certainlyNotHere]
+other = "Certamente, nao aqui"

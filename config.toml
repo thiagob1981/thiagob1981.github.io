@@ -1,0 +1,120 @@
+# Hugo Site Configuration
+baseURL = "https://thiagob.dev/"
+languageCode = "en"
+title = "Thiago Baptista"
+theme = "careercanvas"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 1
+    [languages.en.params]
+      tagline = "Engineer. Builder. Problem Solver."
+      hero_description = "Senior Data & Analytics Engineer specializing in Data Lakehouse and Big Data solutions. Building end-to-end analytical solutions with Databricks, Apache Spark, Delta Lake, and Microsoft Fabric."
+      hero_location = "Vitoria, Brazil"
+      resume_url = "/files/cv_thiagobaptista_en.pdf"
+      collab_tags = [
+        "Data Lakehouse",
+        "Databricks & Spark",
+        "Analytics Engineering",
+        "Data Governance",
+        "CI/CD & DevOps"
+      ]
+  [languages.pt]
+    contentDir = "content/pt"
+    languageName = "Portugues"
+    weight = 2
+    [languages.pt.params]
+      tagline = "Engenheiro. Construtor. Solucionador."
+      hero_description = "Engenheiro de Dados & Analytics especializado em Data Lakehouse e solucoes de Big Data. Construo solucoes analiticas end-to-end com Databricks, Apache Spark, Delta Lake e Microsoft Fabric."
+      hero_location = "Vitoria, Brasil"
+      resume_url = "/files/cv_thiagobaptista_pt.pdf"
+      collab_tags = [
+        "Data Lakehouse",
+        "Databricks & Spark",
+        "Analytics Engineering",
+        "Governanca de Dados",
+        "CI/CD & DevOps"
+      ]
+
+[build]
+  writeStats = true
+
+[params]
+name = "Thiago Baptista"
+firstName = "Thiago"
+lastName = "Baptista"
+email = "thiagob1981@gmail.com"
+profile_image = "/images/thiago-baptista-profile.jpg"
+author = "Thiago Baptista"
+
+description = "Senior Data & Analytics Engineer specializing in Data Lakehouse and Big Data solutions with Databricks, Apache Spark, Delta Lake, and Microsoft Fabric."
+
+linkedin_url = "https://www.linkedin.com/in/thiagob1981"
+linkedin_text = "linkedin.com/in/thiagob1981"
+github_url = "https://github.com/thiagob1981"
+github_text = "github.com/thiagob1981"
+
+copyright = "Thiago Baptista"
+
+resume_url_en = "/files/cv_thiagobaptista_en.pdf"
+resume_url_pt = "/files/cv_thiagobaptista_pt.pdf"
+resume_label = "View CV"
+
+formspreeendpoint = "https://formspree.io/f/xlgplord"
+pexelsapikey = ""
+
+[params.pexels]
+  queries = [
+    "data center servers",
+    "abstract technology",
+    "circuit board"
+  ]
+
+[[params.social]]
+icon = "linkedin-in"
+url = "https://www.linkedin.com/in/thiagob1981/"
+
+[[params.social]]
+icon = "github"
+url = "https://github.com/thiagob1981"
+
+sectionPagesMenu = 'main'
+
+[taxonomies]
+  tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "monokai"
+
+[server]
+  [[server.headers]]
+    for = "/**/*.css"
+    [server.headers.values]
+      Content-Type = "text/css"
+
+[params.color_palettes]
+  [[params.color_palettes.palette]]
+    name = "midnight"
+    main_color = "#0F172A"
+    second_color = "#8B5CF6"
+    third_color = "#06B6D4"
+
+  [[params.color_palettes.palette]]
+    name = "steel"
+    main_color = "#374151"
+    second_color = "#6B7280"
+    third_color = "#10B981"
+
+  [[params.color_palettes.palette]]
+    name = "navy"
+    main_color = "#1E3A8A"
+    second_color = "#3B82F6"
+    third_color = "#F59E0B"
