@@ -2,7 +2,7 @@
 title: "Competências"
 type: "homepage"
 intro: >-
-  Engenharia de dados e analytics end-to-end, de arquitetura lakehouse a produtos de dados governados que orientam decisões de negócio.
+  Engenharia de dados e analytics end-to-end, do design de Data Lakehouse a produtos de dados governados que orientam decisões de negócio.
 
 domains:
   - icon: "database"

@@ -2,7 +2,7 @@
 title: "Skills"
 type: "homepage"
 intro: >-
-  End-to-end data engineering and analytics, from lakehouse architecture design to governed data products that drive business decisions.
+  End-to-end data engineering and analytics, from Data Lakehouse design to governed data products that drive business decisions.
 
 domains:
   - icon: "database"
