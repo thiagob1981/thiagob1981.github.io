@@ -2,7 +2,7 @@
 title: "Experiência"
 type: "homepage"
 intro: >-
-  De bancos relacionais ao Data Lakehouse moderno, 25+ anos construindo soluções de dados que orientam decisões estratégicas.
+  De bancos relacionais ao Data Lakehouse moderno, 30 anos construindo soluções de dados que orientam decisões estratégicas.
 
 positions:
   - company: "Natura (via HVAR)"
