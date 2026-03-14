@@ -2,7 +2,7 @@
 title: "Experience"
 type: "homepage"
 intro: >-
-  From relational databases to modern Data Lakehouse, building data solutions that drive strategic decisions.
+  From relational databases to modern Data Lakehouse, 25+ years building data solutions that drive strategic decisions.
 
 positions:
   - company: "Natura (via HVAR)"
