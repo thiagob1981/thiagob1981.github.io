@@ -96,7 +96,7 @@ technical_groups:
         name: "OneLake"
         icon_url: "/images/icons/onelake.svg"
       - icon: "hdd"
-        name: "Azure Data Lake Storage"
+        name: "ADLS Gen2"
         icon_url: "/images/icons/adls.svg"
       - icon: "cloud"
         name: "AWS"
