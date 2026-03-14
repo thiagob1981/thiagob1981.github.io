@@ -16,12 +16,12 @@ domains:
     devicon_class: "devicon-github-original colored"
 
   - icon: "shield-alt"
-    title: "Data Governance & Quality"
+    title: "Governance & Quality"
     description: "Unity Catalog and Microsoft Purview. Data cataloging, lineage tracking, access control, metric dictionaries. Data quality with Delta Live Tables expectations, unit testing, and data quality checks."
     devicon_class: "devicon-azure-plain colored"
 
   - icon: "users"
-    title: "Leadership & Industry Experience"
+    title: "Leadership & Industry"
     description: "Leading multidisciplinary teams, defining architecture standards, and translating business requirements into data solutions. Sectors: retail, industry, agribusiness, cosmetics, logistics, and government."
     devicon_class: "devicon-jira-plain colored"
 ---
