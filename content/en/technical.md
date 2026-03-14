@@ -122,14 +122,10 @@ technical_groups:
         name: "GitHub Actions"
         devicon_name: "githubactions"
 
-  - title: "Methodologies"
+  - title: "Project Management"
     icon: "users"
     color_scheme: "green"
     skills:
-      - icon: "th-list"
-        name: "Kanban"
-      - icon: "redo"
-        name: "Scrum"
       - icon: "columns"
         name: "Azure Boards"
         icon_url: "/images/icons/azureboards.svg"
@@ -139,4 +135,8 @@ technical_groups:
       - icon: "tasks"
         name: "Jira"
         devicon_name: "jira"
+      - icon: "th-list"
+        name: "Kanban"
+      - icon: "redo"
+        name: "Scrum"
 ---
