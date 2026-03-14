@@ -12,7 +12,7 @@ domains:
 
   - icon: "cogs"
     title: "Pipeline Engineering & CI/CD"
-    description: "Pipelines de dados escaláveis com Apache Spark, PySpark e Delta Lake. Automação CI/CD com Azure DevOps e GitHub Actions para deploy de notebooks, orquestração de workflows e infraestrutura como código."
+    description: "Pipelines de dados escaláveis com Apache Spark e Delta Lake. Automação CI/CD com Azure DevOps e GitHub Actions para deploy de notebooks, orquestração de workflows e infraestrutura como código."
     devicon_class: "devicon-github-original colored"
 
   - icon: "shield-alt"
