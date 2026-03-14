@@ -118,6 +118,9 @@ technical_groups:
       - icon: "code-branch"
         name: "Azure DevOps"
         devicon_name: "azuredevops"
+      - icon: "cogs"
+        name: "GitHub Actions"
+        devicon_name: "githubactions"
 
   - title: "Metodologias"
     icon: "users"
