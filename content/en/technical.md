@@ -11,10 +11,13 @@ technical_groups:
     skills:
       - icon: "cubes"
         name: "Databricks"
+        icon_url: "/images/icons/databricks.svg"
       - icon: "layer-group"
         name: "Delta Lake"
+        icon_url: "/images/icons/deltalake.svg"
       - icon: "th-large"
         name: "Microsoft Fabric"
+        icon_url: "/images/icons/fabric.svg"
       - icon: "bolt"
         name: "Apache Spark"
         devicon_name: "apachespark"
@@ -42,8 +45,10 @@ technical_groups:
     skills:
       - icon: "book"
         name: "Unity Catalog"
+        icon_url: "/images/icons/databricks.svg"
       - icon: "eye"
         name: "Microsoft Purview"
+        icon_url: "/images/icons/fabric.svg"
 
   - title: "Databases"
     icon: "database"
@@ -100,9 +105,10 @@ technical_groups:
     skills:
       - icon: "chart-line"
         name: "Power BI"
+        icon_url: "/images/icons/powerbi.svg"
       - icon: "chart-bar"
         name: "Tableau"
-        devicon_name: "tableau"
+        icon_url: "/images/icons/tableau.svg"
 
   - title: "Methodologies"
     icon: "users"
