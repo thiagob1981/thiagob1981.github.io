@@ -89,15 +89,15 @@ technical_groups:
         name: "Azure DevOps"
         devicon_name: "azuredevops"
 
-  - title: "Orchestration"
+  - title: "Orchestration & ETL"
     icon: "cogs"
     color_scheme: "orange"
     skills:
-      - icon: "wind"
-        name: "Apache Airflow"
-        devicon_name: "apacheairflow"
       - icon: "exchange-alt"
         name: "SSIS"
+        icon_url: "/images/icons/ssis.svg"
+      - icon: "industry"
+        name: "Azure Data Factory"
 
   - title: "Visualization"
     icon: "chart-bar"
@@ -114,9 +114,9 @@ technical_groups:
     icon: "users"
     color_scheme: "green"
     skills:
-      - icon: "columns"
+      - icon: "th-list"
         name: "Kanban"
-      - icon: "sync"
+      - icon: "redo"
         name: "Scrum"
       - icon: "tasks"
         name: "Jira"
