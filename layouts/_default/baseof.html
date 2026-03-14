@@ -5,6 +5,16 @@
         if (localStorage.getItem('darkMode') !== 'false') {
             document.documentElement.classList.add('dark');
         }
+        (function() {
+            if (localStorage.getItem('langRedirected')) return;
+            var lang = navigator.language || navigator.userLanguage || '';
+            if (lang.toLowerCase().indexOf('pt') === 0 && window.location.pathname.indexOf('/pt') !== 0) {
+                localStorage.setItem('langRedirected', '1');
+                window.location.replace('/pt/');
+            } else {
+                localStorage.setItem('langRedirected', '1');
+            }
+        })();
     </script>
     {{ partial "head.html" . }}
     {{ partial "color-variables.html" . }}
