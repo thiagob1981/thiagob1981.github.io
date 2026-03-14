@@ -36,8 +36,10 @@ technical_groups:
         name: "Spark SQL"
       - icon: "database"
         name: "T-SQL"
+        devicon_name: "microsoftsqlserver"
       - icon: "database"
-        name: "PL/pgSQL"
+        name: "pgSQL"
+        devicon_name: "postgresql"
 
   - title: "Governança de Dados"
     icon: "shield-alt"
@@ -45,10 +47,10 @@ technical_groups:
     skills:
       - icon: "book"
         name: "Unity Catalog"
-        icon_url: "/images/icons/databricks.svg"
+        icon_url: "/images/icons/unitycatalog.svg"
       - icon: "eye"
         name: "Microsoft Purview"
-        icon_url: "/images/icons/fabric.svg"
+        icon_url: "/images/icons/purview.svg"
 
   - title: "Bancos de Dados"
     icon: "database"
@@ -62,6 +64,10 @@ technical_groups:
         devicon_name: "microsoftsqlserver"
       - icon: "database"
         name: "Azure SQL Database"
+        icon_url: "/images/icons/azuresql.svg"
+      - icon: "database"
+        name: "DynamoDB"
+        icon_url: "/images/icons/dynamodb.svg"
 
   - title: "Cloud & Armazenamento"
     icon: "cloud"
@@ -72,8 +78,7 @@ technical_groups:
         devicon_name: "azure"
       - icon: "hdd"
         name: "Azure Storage"
-      - icon: "industry"
-        name: "Azure Data Factory"
+        icon_url: "/images/icons/azurestorage.svg"
 
   - title: "CI/CD & DevOps"
     icon: "tools"
@@ -84,7 +89,7 @@ technical_groups:
         devicon_name: "git"
       - icon: "code-branch"
         name: "GitHub"
-        devicon_name: "github"
+        icon_url: "/images/icons/github.svg"
       - icon: "code-branch"
         name: "Azure DevOps"
         devicon_name: "azuredevops"
@@ -98,6 +103,7 @@ technical_groups:
         icon_url: "/images/icons/ssis.svg"
       - icon: "industry"
         name: "Azure Data Factory"
+        icon_url: "/images/icons/adf.svg"
 
   - title: "Visualização"
     icon: "chart-bar"
