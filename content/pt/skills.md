@@ -6,14 +6,9 @@ intro: >-
 
 domains:
   - icon: "database"
-    title: "Data Lakehouse & Arquitetura"
-    description: "Projeto e implementação de arquiteturas Data Lakehouse com Databricks e Microsoft Fabric. Arquitetura medallion (bronze/silver/gold), Delta Lake, modelagem dimensional e produtos de dados para consumo analítico."
+    title: "Data Lakehouse & Analytics Engineering"
+    description: "Arquiteturas Lakehouse com Databricks e Microsoft Fabric. Arquitetura medallion, Delta Lake, modelagem dimensional, transformações Silver-to-Gold com PySpark e Spark SQL, definição de métricas de negócio e habilitação DataViz para Tableau e Power BI."
     devicon_class: "devicon-apachespark-original colored"
-
-  - icon: "chart-line"
-    title: "Analytics Engineering"
-    description: "Produtos de dados analíticos end-to-end: transformações Silver-to-Gold com PySpark e Spark SQL, definição de métricas de negócio, padrões OBT/Star Schema/SCD e habilitação de times DataViz para Tableau e Power BI."
-    devicon_class: "devicon-python-plain colored"
 
   - icon: "shield-alt"
     title: "Governança & Qualidade de Dados"
@@ -22,16 +17,11 @@ domains:
 
   - icon: "cogs"
     title: "Pipeline Engineering & CI/CD"
-    description: "Pipelines de dados escaláveis com Apache Spark, PySpark e Delta Lake. Automação CI/CD com Azure DevOps e GitHub para deploy de notebooks, orquestração de workflows e infraestrutura como código."
+    description: "Pipelines de dados escaláveis com Apache Spark, PySpark e Delta Lake. Automação CI/CD com Azure DevOps e GitHub Actions para deploy de notebooks, orquestração de workflows e infraestrutura como código."
     devicon_class: "devicon-github-original colored"
 
   - icon: "users"
-    title: "Liderança Técnica"
-    description: "Liderança de equipes multidisciplinares, definição de padrões de arquitetura, coordenação de squads cross-funcionais (DataViz, PO, stakeholders) e tradução de requisitos de negócio em arquiteturas de dados robustas."
+    title: "Liderança & Experiência Setorial"
+    description: "Liderança de equipes multidisciplinares, definição de padrões de arquitetura e tradução de requisitos de negócio em soluções de dados. Setores: varejo, indústria, agronegócio, cosméticos, logística e governo."
     devicon_class: "devicon-jira-plain colored"
-
-  - icon: "building"
-    title: "Experiência Setorial"
-    description: "Soluções entregues em varejo, indústria, agronegócio, cosméticos, logística e governo. Experiência com integração SAP, analytics multi-país/multi-moeda e plataformas de dados do setor público."
-    devicon_class: "devicon-postgresql-plain colored"
 ---
