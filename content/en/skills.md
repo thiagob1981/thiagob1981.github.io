@@ -7,7 +7,7 @@ intro: >-
 domains:
   - icon: "database"
     title: "Data Lakehouse & Analytics Engineering"
-    description: "Lakehouse architectures with Databricks and Microsoft Fabric. Medallion architecture, Delta Lake, dimensional modeling, Silver-to-Gold transformations with PySpark and Spark SQL, business metric definition, and DataViz enablement for Tableau and Power BI."
+    description: "Data Lakehouse with Databricks and Microsoft Fabric. Medallion architecture, Delta Lake, dimensional modeling, Silver-to-Gold transformations with PySpark and Spark SQL, business metric definition, and DataViz enablement for Tableau and Power BI."
     devicon_class: "devicon-apachespark-original colored"
 
   - icon: "shield-alt"
