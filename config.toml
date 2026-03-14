@@ -86,7 +86,6 @@ url = "https://github.com/thiagob1981"
 icon = "envelope"
 url = "mailto:thiago@thiagob.dev"
 
-sectionPagesMenu = 'main'
 
 [taxonomies]
   tag = "tags"
