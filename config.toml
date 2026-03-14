@@ -25,18 +25,18 @@ defaultContentLanguageInSubdir = false
       ]
   [languages.pt]
     contentDir = "content/pt"
-    languageName = "Portugues"
+    languageName = "Português"
     weight = 2
     [languages.pt.params]
       tagline = "Engenheiro. Construtor. Solucionador."
-      hero_description = "Engenheiro de Dados & Analytics especializado em Data Lakehouse e solucoes de Big Data. Construo solucoes analiticas end-to-end com Databricks, Apache Spark, Delta Lake e Microsoft Fabric."
-      hero_location = "Vitoria, Brasil"
+      hero_description = "Engenheiro de Dados & Analytics especializado em Data Lakehouse e soluções de Big Data. Construo soluções analíticas end-to-end com Databricks, Apache Spark, Delta Lake e Microsoft Fabric."
+      hero_location = "Vitória, Brasil"
       resume_url = "/files/cv_thiagobaptista_pt.pdf"
       collab_tags = [
         "Data Lakehouse",
         "Databricks & Spark",
         "Analytics Engineering",
-        "Governanca de Dados",
+        "Governança de Dados",
         "CI/CD & DevOps"
       ]
 
@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
 name = "Thiago Baptista"
 firstName = "Thiago"
 lastName = "Baptista"
-email = "thiagob1981@gmail.com"
+email = "thiago@thiagob.dev"
 profile_image = "/images/thiago-baptista-profile.jpg"
 author = "Thiago Baptista"
 
@@ -81,6 +81,10 @@ url = "https://www.linkedin.com/in/thiagob1981/"
 [[params.social]]
 icon = "github"
 url = "https://github.com/thiagob1981"
+
+[[params.social]]
+icon = "envelope"
+url = "mailto:thiago@thiagob.dev"
 
 sectionPagesMenu = 'main'
 

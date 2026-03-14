@@ -35,10 +35,10 @@ other = "Enviar"
 other = "Enviar"
 
 [skills]
-other = "Competencias"
+other = "Competências"
 
 [experience]
-other = "Experiencia"
+other = "Experiência"
 
 [about]
 other = "Sobre"
@@ -59,10 +59,10 @@ other = "Saiba mais"
 other = "Envie uma mensagem"
 
 [contactInformation]
-other = "Informacoes de Contato"
+other = "Informações de Contato"
 
 [priorityContact]
-other = "Contato Prioritario"
+other = "Contato Prioritário"
 
 [aboutMe]
 other = "Sobre Mim"
@@ -86,25 +86,25 @@ other = "Interesses"
 other = "Idiomas"
 
 [helloIm]
-other = "Ola, eu sou"
+other = "Olá, eu sou"
 
 [viewCV]
 other = "Ver CV"
 
 [downloadResume]
-other = "Baixar Curriculo"
+other = "Baixar Currículo"
 
 [keyAchievements]
 other = "Conquistas"
 
 [pageNotFound]
-other = "Pagina Nao Encontrada"
+other = "Página Não Encontrada"
 
 [pageNotFoundSubtitle]
-other = "A pagina que voce procura nao existe."
+other = "A página que você procura não existe."
 
 [goHome]
-other = "Voltar ao inicio"
+other = "Voltar ao início"
 
 [certainlyNotHere]
-other = "Certamente, nao aqui"
+other = "Certamente, não aqui"

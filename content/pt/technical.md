@@ -2,7 +2,7 @@
 title: "Tech Stack"
 type: "homepage"
 intro: >-
-  Tecnologias principais em plataformas de dados, programacao, orquestracao e visualizacao.
+  Tecnologias principais em plataformas de dados, programação, orquestração e visualização.
 
 technical_groups:
   - title: "Plataformas de Dados"
@@ -35,7 +35,7 @@ technical_groups:
       - icon: "database"
         name: "PL/pgSQL"
 
-  - title: "Governanca de Dados"
+  - title: "Governança de Dados"
     icon: "shield-alt"
     color_scheme: "green"
     skills:
@@ -83,7 +83,7 @@ technical_groups:
         name: "Azure DevOps"
         devicon_name: "azuredevops"
 
-  - title: "Orquestracao"
+  - title: "Orquestração"
     icon: "cogs"
     color_scheme: "orange"
     skills:
@@ -93,7 +93,7 @@ technical_groups:
       - icon: "ssis"
         name: "SSIS"
 
-  - title: "Visualizacao"
+  - title: "Visualização"
     icon: "chart-bar"
     color_scheme: "purple"
     skills:
