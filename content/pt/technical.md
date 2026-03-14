@@ -101,6 +101,9 @@ technical_groups:
       - icon: "chart-bar"
         name: "Tableau"
         icon_url: "/images/icons/tableau.svg"
+      - icon: "chart-area"
+        name: "Grafana"
+        icon_url: "/images/icons/grafana.svg"
 
   - title: "CI/CD & DevOps"
     icon: "tools"
