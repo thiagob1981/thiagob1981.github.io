@@ -31,8 +31,8 @@ mix: >-
   **retail, industry, agribusiness, cosmetics, logistics, and government**.
 
 personal: >-
-  Based in **Vitoria, Brazil**. Computer Science degree from the
-  **Federal University of Espirito Santo (UFES)**.
+  Based in **Vitória, Brazil**. Computer Science degree from the
+  **Federal University of Espírito Santo (UFES)**.
   Certified in **Databricks** and **Microsoft Fabric**.
 
 quickfacts:
@@ -41,7 +41,7 @@ quickfacts:
     value: "Senior Analytics Engineer at <a href=\"https://www.natura.com.br\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Natura</strong></a> (via HVAR)"
   - icon: "graduation-cap"
     title: "Education"
-    value: "<a href=\"https://www.ufes.br\" target=\"_blank\" rel=\"noopener noreferrer\">Federal University of Espirito Santo (UFES)</a>, **B.Sc. Computer Science**"
+    value: "<a href=\"https://www.ufes.br\" target=\"_blank\" rel=\"noopener noreferrer\">Federal University of Espírito Santo (UFES)</a>, **B.Sc. Computer Science**"
   - icon: "award"
     title: "Certifications"
     value: |

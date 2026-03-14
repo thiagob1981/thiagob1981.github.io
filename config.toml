@@ -14,7 +14,7 @@ defaultContentLanguageInSubdir = false
     [languages.en.params]
       tagline = "Engineer. Builder. Problem Solver."
       hero_description = "Senior Data & Analytics Engineer specializing in Data Lakehouse and Big Data solutions. Building end-to-end analytical solutions with Databricks, Apache Spark, Delta Lake, and Microsoft Fabric."
-      hero_location = "Vitoria, Brazil"
+      hero_location = "Vitória, Brazil"
       resume_url = "/files/cv_thiagobaptista_en.pdf"
       collab_tags = [
         "Data Lakehouse",

@@ -10,7 +10,7 @@ positions:
     role: "Senior Analytics Engineer"
     period: "Jan 2026 - Present"
     industry: "Cosmetics & Consumer Goods"
-    location: "Sao Paulo, Brazil"
+    location: "São Paulo, Brazil"
     company_description: "Latin America's largest cosmetics company, operating across multiple countries and brands"
     bullet_points:
       - "Design and build Gold-layer data products in Databricks feeding executive Tableau dashboards"
@@ -24,7 +24,7 @@ positions:
     role: "Senior Data Engineer"
     period: "Sep 2025 - Jan 2026"
     industry: "Cosmetics & Consumer Goods"
-    location: "Sao Paulo, Brazil"
+    location: "São Paulo, Brazil"
     company_description: "Data modernization and SAP-Databricks integration project"
     bullet_points:
       - "Technical lead for SAP data ingestion (ECC, BW) into Databricks via SAP BDC and AecorSoft connectors"
@@ -37,8 +37,8 @@ positions:
     role: "Senior Data Engineer"
     period: "Dec 2024 - Sep 2025"
     industry: "Government"
-    location: "Sao Paulo, Brazil"
-    company_description: "GDAP - Digital Cabinet for Public Administration, serving the Governor of Sao Paulo State"
+    location: "São Paulo, Brazil"
+    company_description: "GDAP - Digital Cabinet for Public Administration, serving the Governor of São Paulo State"
     bullet_points:
       - "Scalable data pipelines with Databricks and Spark for state-wide data integration"
       - "Data Lakehouse architecture to unify and democratize access to government data"
@@ -49,8 +49,8 @@ positions:
     role: "Senior Database Administrator"
     period: "Mar 2024 - Dec 2024"
     industry: "Government"
-    location: "Sao Paulo, Brazil"
-    company_description: "Supporting the Sao Paulo State Secretary of Economic Development"
+    location: "São Paulo, Brazil"
+    company_description: "Supporting the São Paulo State Secretary of Economic Development"
     bullet_points:
       - "Advanced SQL Server: views, CTEs, stored procedures, T-SQL scripts for government programs"
       - "Production environment support with proactive monitoring and SLA-based incident management"
@@ -60,7 +60,7 @@ positions:
     role: "Senior Data Engineer"
     period: "Apr 2014 - Mar 2024"
     industry: "Consulting (Multi-sector)"
-    location: "Vitoria, Brazil"
+    location: "Vitória, Brazil"
     company_description: "Data engineering consulting across retail, industry, media, and entertainment"
     bullet_points:
       - "Data Lakes and Data Warehouses with Azure Storage, Azure SQL Database, SQL Server, PostgreSQL"
@@ -80,12 +80,12 @@ positions:
       - "ETL orchestration with SSIS integrating SAP, Oracle ERP, Cognos, and operational systems"
       - "Financial analysis solutions for demand forecasting and cost allocation"
 
-  - company: "Fundacao Ceciliano Abel de Almeida"
+  - company: "Fundação Ceciliano Abel de Almeida"
     role: "Data Engineer"
     period: "Feb 2000 - Mar 2010"
     industry: "Education / Non-profit"
-    location: "Vitoria, Brazil"
-    company_description: "Non-profit affiliated with the Federal University of Espirito Santo (UFES)"
+    location: "Vitória, Brazil"
+    company_description: "Non-profit affiliated with the Federal University of Espírito Santo (UFES)"
     bullet_points:
       - "BI layer over ERP Sapiens using SQL Server for advanced analytics and management reporting"
       - "Database administration: capacity planning, backup, disaster recovery, high availability"
