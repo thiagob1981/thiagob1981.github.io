@@ -5,17 +5,6 @@ intro: >-
   Tecnologias principais em plataformas de dados, programação, orquestração e visualização.
 
 technical_groups:
-  - title: "Plataformas de Dados"
-    icon: "server"
-    color_scheme: "blue"
-    skills:
-      - icon: "cubes"
-        name: "Databricks"
-        icon_url: "/images/icons/databricks.svg"
-      - icon: "th-large"
-        name: "Microsoft Fabric"
-        icon_url: "/images/icons/fabric.svg"
-
   - title: "Big Data & Processamento"
     icon: "bolt"
     color_scheme: "orange"
@@ -26,6 +15,17 @@ technical_groups:
       - icon: "layer-group"
         name: "Delta Lake"
         icon_url: "/images/icons/deltalake.svg"
+
+  - title: "Plataformas de Dados"
+    icon: "server"
+    color_scheme: "blue"
+    skills:
+      - icon: "cubes"
+        name: "Databricks"
+        icon_url: "/images/icons/databricks.svg"
+      - icon: "th-large"
+        name: "Microsoft Fabric"
+        icon_url: "/images/icons/fabric.svg"
 
   - title: "Linguagens"
     icon: "code"
