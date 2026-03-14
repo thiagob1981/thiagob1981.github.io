@@ -71,6 +71,20 @@ technical_groups:
         name: "DynamoDB"
         icon_url: "/images/icons/dynamodb.svg"
 
+  - title: "Visualization"
+    icon: "chart-bar"
+    color_scheme: "purple"
+    skills:
+      - icon: "chart-line"
+        name: "Power BI"
+        icon_url: "/images/icons/powerbi.svg"
+      - icon: "chart-bar"
+        name: "Tableau"
+        icon_url: "/images/icons/tableau.svg"
+      - icon: "chart-area"
+        name: "Grafana"
+        icon_url: "/images/icons/grafana.svg"
+
   - title: "Cloud & Storage"
     icon: "cloud"
     color_scheme: "purple"
@@ -90,20 +104,6 @@ technical_groups:
       - icon: "hdd"
         name: "Amazon S3"
         icon_url: "/images/icons/s3.svg"
-
-  - title: "Visualization"
-    icon: "chart-bar"
-    color_scheme: "purple"
-    skills:
-      - icon: "chart-line"
-        name: "Power BI"
-        icon_url: "/images/icons/powerbi.svg"
-      - icon: "chart-bar"
-        name: "Tableau"
-        icon_url: "/images/icons/tableau.svg"
-      - icon: "chart-area"
-        name: "Grafana"
-        icon_url: "/images/icons/grafana.svg"
 
   - title: "CI/CD & DevOps"
     icon: "tools"
