@@ -1,4 +1,4 @@
 
-[submodule "themes/PaperMod"]
-	path = themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/careercanvas"]
+	path = themes/careercanvas
+	url = https://github.com/felipecordero/careercanvas.git
